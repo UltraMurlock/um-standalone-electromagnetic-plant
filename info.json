@@ -1,0 +1,10 @@
+{
+  "name": "um-standalone-electromagnetic-plant",
+  "version": "0.0.1",
+  "author": "UltraMurlock",
+  "title": "Standalone Electromagnetic Plant",
+  "description": "Add space age electromagnetic plant as standalone.",
+  "dependencies": ["!space-age"],
+  "factorio_version": "2.0",
+  "freezing_required": true
+}
