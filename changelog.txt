@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 28.08.2025
+  Balance:
+    - Added Automation 3 prerequisite for EM Plant technology
+    - Added production science pack for EM Plant technology
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 22.08.2025
   Info:
