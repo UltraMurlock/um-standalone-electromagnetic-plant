@@ -2,7 +2,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "electromagnetic-plant",
-		categories = { "electronics-or-assembling" },
+		categories = { "crafting", "advanced-crafting" },
 		energy_required = 10,
 		ingredients = {
 			{ type = "item", name = "low-density-structure", amount = 10 },
